@@ -34,3 +34,58 @@ Given the evolving landscape of cybersecurity threats and the DoD’s commitment
 - Ethical considerations and risk assessment
 - Description of artefact(s) that will be created
 - Timeline of proposed activities
+
+# Literature Review Outline
+
+## Title  
+**Large Language Models in DoD Risk Management Framework: Opportunities and Challenges for Automating Cybersecurity Risk Assessment**
+
+---
+
+## Introduction/Strategy
+- Introduce the Department of Defense’s Risk Management Framework (RMF) and its role in system authorization.
+- Present the rising interest in automation to reduce administrative and analytical burdens in cybersecurity.
+- Introduce Large Language Models (LLMs) as an emerging technology relevant to this domain.
+- Explain the purpose and structure of the literature review.
+
+---
+
+## RMF and Risk Assessment in DoD Cybersecurity
+**Key themes:**
+- Overview of the NIST 800-37 and 800-53 frameworks.
+- Explanation of RMF phases: categorization, control selection, implementation, assessment, authorization, and continuous monitoring.
+- Key challenges in applying RMF to complex DoD networked systems.
+- The importance of accuracy, auditability, and timeliness in cybersecurity risk decisions.
+
+---
+
+## AI and NLP in Compliance and Risk Assessment
+**Key topics:**
+- Historical use of AI and natural language processing in cyber and compliance tools.
+- Early use cases in document generation, regulatory mapping, and data classification.
+- Benefits and limitations of rule-based systems compared to LLMs.
+
+---
+
+## Large Language Models (LLMs) and their Potential in RMF Automation
+**Key topics:**
+- Overview of LLM capabilities relevant to RMF (e.g., summarization, policy interpretation, control family classification).
+- Potential for LLMs to automate portions of SSPs, POA&Ms, and SARs.
+- Current and experimental use in federal or defense settings (if available).
+- Limitations and risks: hallucinated content, lack of explainability, insufficient fine-tuning.
+
+---
+
+## Ethical, Legal, and Operational Considerations
+- Transparency, accountability, and explainability requirements for DoD cybersecurity systems.
+- Risk of biased outputs or model misuse in high-assurance environments.
+- Conflicts with federal compliance mandates (e.g., FISMA, FedRAMP, RMF artifacts).
+- Issues of trust, oversight, and human-in-the-loop decision making.
+
+---
+
+## Future Opportunities and Research Gaps
+- Identified gaps in the academic and applied literature.
+- Opportunities for DoD contractors, researchers, and agencies to pilot or study LLM integrations.
+- Calls for standardized frameworks for evaluating LLM outputs in cybersecurity contexts.
+- Potential research questions for future exploration.
