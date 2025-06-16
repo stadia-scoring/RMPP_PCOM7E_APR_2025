@@ -45,7 +45,23 @@ To assess the applicability, effectiveness, and challenges of integrating LLMs i
 ---
 
 ## 6. Methodology / Research Design  
-TBD
+This research will use an Exploratory Research Design with primarily Qualitative Methods. The chosen methodology aligns with the project’s goal of understanding emerging applications of Large Language Models (LLMs) in automating the Risk Management Framework (RMF) assessment and authorization processes within the Department of Defense context—an area with limited existing formal studies.
+
+The main qualitative techniques employed will include:
+
+Case Studies:
+- Conducting in-depth analyses of pilot projects, industry reports, governmental documents (such as DoD CIO guidance, NIST publications), and case studies from organizations that have implemented similar technologies. This approach will help identify practical examples, lessons learned, and documented outcomes related to LLM integration.
+
+Semi-structured Interviews:
+- Conducting expert interviews with subject matter specialists in cybersecurity compliance, RMF processes, government cybersecurity policy, and artificial intelligence integration. Interviews will provide nuanced insights into operational feasibility, anticipated barriers, ethical concerns, and practical recommendations for adoption.
+
+Secondary Research:
+- Reviewing and synthesizing existing literature, such as NIST Special Publications (800-37 and 800-53), OSCAL documentation, DoD policy memos, and academic literature on automation and AI governance, to contextualize findings within established frameworks and guidelines.
+
+The research will utilize an inductive approach to data analysis, allowing themes, patterns, and insights to emerge organically from the collected qualitative data. This methodology is ideal for understanding the complexities and implications of LLM adoption within the highly regulated DoD RMF environment.
+
+Where relevant and feasible, mixed-method elements may be integrated later to quantitatively compare practical outcomes (such as time savings or accuracy improvements). However, the primary emphasis will remain qualitative due to the exploratory nature of the topic.
+
 ---
 
 ## 7. Ethical Considerations and Risk Assessment  
