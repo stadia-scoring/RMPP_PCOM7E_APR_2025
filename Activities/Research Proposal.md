@@ -40,7 +40,8 @@ To assess the applicability, effectiveness, and challenges of integrating LLMs i
 - IEEE (2019) – ethically aligned design  
 - NIST 800-37 and 800-53 – core RMF documentation  
 - HashiCorp & GitOps documentation – modern approaches to IaC  
-- OSCAL (NIST) – machine-readable security controls framework  
+- OSCAL (NIST) – machine-readable security controls framework
+- Özdoğan, Erdal & Ceran, Onur & ÜSTÜNDAĞ, Mutlu. (2023) - Systematic Analysis of Infrastructure as Code Technologies 
 
 ---
 
