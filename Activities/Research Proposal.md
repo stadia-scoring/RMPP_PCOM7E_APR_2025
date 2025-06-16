@@ -33,16 +33,15 @@ To assess the applicability, effectiveness, and challenges of integrating LLMs i
 ---
 
 ## 5. Key Literature  
-- Correa et al. (2023) – global ethics in AI governance  
-- Nguyen et al. (2024) – trust and explainability in LLMs  
-- Smith & Rao (2022) – AI in compliance auditing  
-- DoD CIO (2024) – automation in RMF policy direction  
-- IEEE (2019) – ethically aligned design  
-- NIST 800-37 and 800-53 – core RMF documentation  
-- HashiCorp & GitOps documentation – modern approaches to IaC  
+- Correa et al. (2023) – global ethics in AI governance
+  - https://pubmed.ncbi.nlm.nih.gov/37876898/ 
+- NIST 800-37 and 800-53 – core RMF documentation
+    - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf
+    - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf 
 - OSCAL (NIST) – machine-readable security controls framework
+  - https://pages.nist.gov/OSCAL/learn/
 - Özdoğan, Erdal & Ceran, Onur & ÜSTÜNDAĞ, Mutlu. (2023) - Systematic Analysis of Infrastructure as Code Technologies 
-
+ - https://www.researchgate.net/publication/376476103_Systematic_Analysis_of_Infrastructure_as_Code_Technologies
 ---
 
 ## 6. Methodology / Research Design  
