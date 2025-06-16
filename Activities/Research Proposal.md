@@ -41,7 +41,7 @@ To assess the applicability, effectiveness, and challenges of integrating LLMs i
 - OSCAL (NIST) – machine-readable security controls framework
   - https://pages.nist.gov/OSCAL/learn/
 - Özdoğan, Erdal & Ceran, Onur & ÜSTÜNDAĞ, Mutlu. (2023) - Systematic Analysis of Infrastructure as Code Technologies 
- - https://www.researchgate.net/publication/376476103_Systematic_Analysis_of_Infrastructure_as_Code_Technologies
+  - https://www.researchgate.net/publication/376476103_Systematic_Analysis_of_Infrastructure_as_Code_Technologies
 ---
 
 ## 6. Methodology / Research Design  
