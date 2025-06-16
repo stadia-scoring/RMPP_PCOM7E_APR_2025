@@ -101,3 +101,5 @@ To effectively carry out this project, I will need or need to strengthen the fol
 - Data Interpretation and Synthesis: To draw meaningful insights from varied and possibly unstructured information.
 - Ethical Awareness in AI and Research: Especially regarding bias, governance, and DoD compliance standards.
 
+
+Need to consider Interviews, Survey Methods, and Questionnaire Design
