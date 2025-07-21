@@ -10,8 +10,6 @@
 **Interpretation:**  
 Diet B participants lost an average of 3.71 kg with a standard deviation of 2.769 kg. Compared to Diet A (mean: 5.341 kg), Diet B appears less effective in promoting weight loss.
 
----
-
 ## Exercise 6.2 – Median, Quartiles, and IQR for Diet B
 
 **File:** `Exe 8.2B.xlsx`
@@ -24,8 +22,6 @@ Diet B participants lost an average of 3.71 kg with a standard deviation of 2.76
 
 **Interpretation:**  
 Diet B has a lower median than Diet A (5.642 kg), reinforcing that it is likely less effective overall. However, the IQR is similar to Diet A's (3.285 kg), indicating similar variability among participants' weight loss.
-
----
 
 ## Exercise 6.3 – Brand Preferences in Area 2
 
@@ -41,5 +37,3 @@ Diet B has a lower median than Diet A (5.642 kg), reinforcing that it is likely 
 
 **Interpretation:**  
 In Area 2, "Other" brands are the most popular, followed by Brand B and Brand A. This differs from Area 1 (not shown here), suggesting regional or demographic variations in brand preference.
-
----
