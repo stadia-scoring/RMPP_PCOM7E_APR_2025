@@ -1,5 +1,3 @@
-## Exercise 6.1 – Summary Measures for Diet B
-
 **File:** `Exe 8.1B.xlsx`
 
 **Results:**
