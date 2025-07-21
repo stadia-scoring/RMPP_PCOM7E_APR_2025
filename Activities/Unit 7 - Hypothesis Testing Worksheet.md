@@ -1,39 +1,120 @@
-## Exercise 6.1 – Summary Measures for Diet B
+## Exercise 7.1 – Paired t-Test on Container Designs
 
-**File:** `Exe 8.1B.xlsx`
+Hypotheses:
 
-**Results:**
-- **Sample size (n):** 50  
-- **Mean weight loss (x̄):** 3.710 kg  
-- **Standard deviation (s):** 2.769 kg
+- H₀: μ₁ = μ₂ (no difference in mean items sold)
+- H₁: μ₁ ≠ μ₂ (difference in mean items sold)
 
-**Interpretation:**  
-Diet B participants lost an average of 3.71 kg with a standard deviation of 2.769 kg. Compared to Diet A (mean: 5.341 kg), Diet B appears less effective in promoting weight loss.
+Results:
 
-## Exercise 6.2 – Median, Quartiles, and IQR for Diet B
+| Metric                     | Value      |
+|-||
+| Mean (Con1)                | 172.6      |
+| Mean (Con2)                | 159.4      |
+| Mean Difference            | 13.2       |
+| Paired t-statistic         | 2.875      |
+| Two-tailed p-value         | 0.018      |
 
-**File:** `Exe 8.2B.xlsx`
+Interpretation:
 
-**Results:**
-- **Median (M):** 3.745 kg  
-- **1st Quartile (Q1):** 1.953 kg  
-- **3rd Quartile (Q3):** 5.404 kg  
-- **Interquartile Range (IQR):** 3.450 kg
+There is statistically significant evidence that Design 1 results in more items sold than Design 2.
 
-**Interpretation:**  
-Diet B has a lower median than Diet A (5.642 kg), reinforcing that it is likely less effective overall. However, the IQR is similar to Diet A's (3.285 kg), indicating similar variability among participants' weight loss.
 
-## Exercise 6.3 – Brand Preferences in Area 2
 
-**File:** `Exe 8.3D.xlsx`
+## Exercise 7.2 – Independent Samples t-Test on Weight Loss
 
-**Results:**
+Hypotheses:
 
-| Brand  | Frequency | Percentage |
-|--------|-----------|------------|
-| Other  | 41        | 45.6%      |
-| B      | 30        | 33.3%      |
-| A      | 19        | 21.1%      |
+- H₀: μ₁ = μ₂ (no difference in mean weight loss)
+- H₁: μ₁ ≠ μ₂ (difference in mean weight loss)
 
-**Interpretation:**  
-In Area 2, "Other" brands are the most popular, followed by Brand B and Brand A. This differs from Area 1 (not shown here), suggesting regional or demographic variations in brand preference.
+Results:
+
+| Metric                     | Value        |
+|-|--|
+| Mean (Diet A)              | 5.341 kg     |
+| Mean (Diet B)              | 3.710 kg     |
+| Mean Difference            | 1.631 kg     |
+| Variance Test p-value (F)  | 0.540        |
+| t-statistic                | 3.072        |
+| Two-tailed p-value         | 0.003        |
+
+Interpretation:
+
+There is statistically significant evidence that Diet A leads to greater weight loss than Diet B.
+
+
+
+## Exercise 7.3 – Chi-Square Test of Independence
+
+Hypotheses:
+
+- H₀: Brand preference is independent of area
+- H₁: Brand preference is associated with area
+
+Observed Frequencies:
+
+| Area | A   | B   | Other |
+||--|--|--|
+| 1    | 11  | 17  | 42     |
+| 2    | 19  | 30  | 41     |
+
+Results:
+
+| Statistic              | Value    |
+||-|
+| Chi-square statistic   | 3.293    |
+| Degrees of freedom     | 2        |
+| p-value                | 0.193    |
+
+Interpretation:
+
+There is no significant evidence that brand preference is associated with area.
+
+
+
+## Exercise 7.4 – One-Sample t-Test for Diet A
+
+Hypotheses:
+
+- H₀: μ = 4.0 (mean weight loss is 4.0 kg)
+- H₁: μ > 4.0 (mean weight loss exceeds 4.0 kg)
+
+Results:
+
+| Metric                  | Value      |
+|--||
+| Sample Mean              | 5.341 kg   |
+| t-statistic              | 3.740      |
+| One-tailed p-value       | < 0.001    |
+
+Interpretation:
+
+There is strong evidence that the mean weight loss for Diet A exceeds 4.0 kg.
+
+
+
+## Exercise 7.6 – Two-Proportion z-Test (Weight Loss > 4 kg)
+
+Hypotheses:
+
+- H₀: Proportion of success is the same for both diets
+- H₁: Proportion of success differs between diets
+
+Results:
+
+| Metric                                 | Diet A     | Diet B     |
+|-|||
+| Number of Individuals                  | 50         | 50         |
+| Number who lost > 4 kg                 | 36         | 22         |
+| Proportion who lost > 4 kg             | 0.72       | 0.44       |
+
+| Test Result              | Value    |
+|--|-|
+| z-statistic              | 2.837    |
+| p-value (two-tailed)     | 0.005    |
+
+Interpretation:
+
+There is significant evidence that a greater proportion of Diet A participants lost more than 4 kg compared to Diet B.
+
