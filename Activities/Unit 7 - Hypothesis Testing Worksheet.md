@@ -1,5 +1,6 @@
+## Exercise 6.1 – Summary Measures for Diet B
 
-## **Exercise 6.1 – Summary Measures for Diet B**
+**File:** `Exe 8.1B.xlsx`
 
 **Results:**
 - **Sample size (n):** 50  
@@ -7,11 +8,13 @@
 - **Standard deviation (s):** 2.769 kg
 
 **Interpretation:**  
-Compared to Diet A (mean: 5.341 kg), Diet B results in lower average weight loss and has slightly higher variability. This suggests that Diet A may be more effective overall.
+Diet B participants lost an average of 3.71 kg with a standard deviation of 2.769 kg. Compared to Diet A (mean: 5.341 kg), Diet B appears less effective in promoting weight loss.
 
 ---
 
-## **Exercise 6.2 – Median, Quartiles, and IQR for Diet B**
+## Exercise 6.2 – Median, Quartiles, and IQR for Diet B
+
+**File:** `Exe 8.2B.xlsx`
 
 **Results:**
 - **Median (M):** 3.745 kg  
@@ -20,11 +23,15 @@ Compared to Diet A (mean: 5.341 kg), Diet B results in lower average weight loss
 - **Interquartile Range (IQR):** 3.450 kg
 
 **Interpretation:**  
-The median for Diet B is lower than that of Diet A (5.642 kg), indicating Diet B participants tended to lose less weight. The IQR is similar to Diet A's (3.285 kg), meaning variability in the central 50% of the data is comparable.
+Diet B has a lower median than Diet A (5.642 kg), reinforcing that it is likely less effective overall. However, the IQR is similar to Diet A's (3.285 kg), indicating similar variability among participants' weight loss.
 
 ---
 
-## **Exercise 6.3 – Brand Preferences in Area 2**
+## Exercise 6.3 – Brand Preferences in Area 2
+
+**File:** `Exe 8.3D.xlsx`
+
+**Results:**
 
 | Brand  | Frequency | Percentage |
 |--------|-----------|------------|
@@ -33,5 +40,6 @@ The median for Diet B is lower than that of Diet A (5.642 kg), indicating Diet B
 | A      | 19        | 21.1%      |
 
 **Interpretation:**  
-In Area 2, the most preferred category is "Other" (45.6%), followed by Brand B (33.3%), and Brand A (21.1%). This pattern differs slightly from Area 1, potentially reflecting demographic or regional preferences.
+In Area 2, "Other" brands are the most popular, followed by Brand B and Brand A. This differs from Area 1 (not shown here), suggesting regional or demographic variations in brand preference.
 
+---
